@@ -1,6 +1,6 @@
 # FNIRSI FNB48S USB Tester
 
-This is an unofficial archive of firmware, software, and manuals for the FNIRSI FNB58 USB Tester.
+This is an unofficial archive of firmware, software, and manuals for the FNIRSI FNB48S USB Tester.
 
 ###  Upgrade firmware instructions
 
